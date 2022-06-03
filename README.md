@@ -21,3 +21,10 @@ Daily Habit:
 - first time, you can do with help, but write notes. redo without help next day.
 - go level by level. Don't go to next level until last level is mastered
 - once you are at level 5,know by heart one or two and skip.
+
+Reminder - :Stdheader in vim; fn + f2;
+to log in: exam / exam, open a terminal, command 'examshell', log in. 
+
+LEVEL 0
+- reminder: int	main(int argc, char  * * argv)
+- to compile: gcc -Wall -Werror -Wextra aff_a.c -o aff_a 
