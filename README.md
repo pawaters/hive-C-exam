@@ -27,4 +27,6 @@ to log in: exam / exam, open a terminal, command 'examshell', log in.
 
 LEVEL 0
 - reminder: int	main(int argc, char  * * argv)
-- to compile: gcc -Wall -Werror -Wextra aff_a.c -o aff_a 
+- to compile: gcc -Wall -Werror -Wextra aff_a.c -o aff_a
+
+NEXT STEP: do at least the 6 of Level 0. 
