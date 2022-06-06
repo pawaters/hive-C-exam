@@ -1,4 +1,7 @@
-# hive-C-exam
+# hive-C-exam - all code for learning purposes
+
+Note: All code writing here is focused on learning purposes, to focus on the coding logic and key aspects.
+All code here is first draft.
 
 Goal: take 10 times the exam, pass 5 times (50% pass).
 
