@@ -1,4 +1,4 @@
-# hive-C-exam
+# hive-C-exam - all code for learning purposes
 
 Goal: take 10 times the exam, pass 5 times (50% pass).
 
