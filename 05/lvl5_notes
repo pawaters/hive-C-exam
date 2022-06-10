@@ -1,0 +1,13 @@
+6 exercises.
+#1 fprime: easiest #1
+#2 ft_itoa_base: easiest #2
+#3 brackets: 60 lines, medium.
+#4 brainfuck: 60 lines, medium .
+#5 print_memory: 70 lines, hard because of radix concept and hexa
+#6 rpn_calc: reverse polish notation. 105 lines and strange - hardest.
+
+plan:
+1) do fprime without help
+2) do more level 4 without help
+
+Goal: pass level 4, take my time and retry if needed.

@@ -1,0 +1,7 @@
+6 exercises.
+- brackets: 60 lines, medium.
+- brainfuck: 60 lines, medium .
+- fprime: easiest #1
+- ft_itoa_base: easiest #2
+- print_memory: 70 lines, hard because of radix concept and hexa
+- rpn_calc: reverse polish notation. 105 lines and strange - hardest.
