@@ -1,0 +1,28 @@
+#include <stdlib.h> /* for atoi */
+#include <stdio.h> /* for printf */
+
+int	main(int ac, char **av)
+{
+	int i;
+	int nb;
+	
+	i = 2;
+	nb = atoi(av[1]);
+	if (ac == 2 && *av[1])
+	{
+		while (nb > 1)
+		{
+			if (nb % i == 0)
+			{		
+				printf("%d", i);
+				nb /= i;
+				if (nb > 1)
+					printf("*");
+				i--;
+			}
+			i++;	
+		}	
+	}
+	printf("\n");
+	return (0);
+}
