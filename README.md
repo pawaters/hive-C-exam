@@ -1,5 +1,17 @@
 # hive-C-exam - all code for learning purposes
 
+Aug 2 update:
+- situation: failed revwstr and floodfill, when I knew of them from before. not sure how to prepare.
+- challenge: I seem to have issues focusing on details
+- goal: prepare like before but better to pass it and get it behind.
+
+How: 
+- only focus on exam prep: I only have 2 full days, and anything can happen.
+- focus on my mistakes: review the level 4s.
+
+
+_____________________________
+
 Note: All code writing here is focused on learning purposes, to focus on the coding logic and key aspects.
 All code here is first draft.
 
