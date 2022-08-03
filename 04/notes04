@@ -1,12 +1,39 @@
-floodfill - use recurrence with a helper function filli
+floodfill - use recurrence with a helper function fill:
 
+1) fill(tab, size, cur, tofill)
+2) start with return if any condition is not fulfilled
+tab[cur.y][cur.x] != to_fill
 
+3) recurrence:
 
-itoa
-listforeach
-listremoveif
-ft_split
-rev wstr
+fill(tab, size, (t_point){cur.x-1, cur.y}, to_fill)
+
+Main: fill (tab, size, begin, tab[begin.y][begin.x]);
+
+_________________________________________
+itoa - div by 10 to measure leng for malloc, divide by len*10 to get left, add to str:
+
+result[i] = ((nbr /ft_div(len) % 10) + '0';
+remember to deal with negatives
+2 helper functions: nbr_len and ft_div
+
+_________________________________________
+listforeach: create a list_ptr as swap, save begin list there. 
+go through the list with list_ptr=list_ptr->nxt; before that, apply function pointer
+while(list_ptr)
+{
+	(*f)(list_ptr->data);
+	list_ptr = list_ptr_>next;
+}
+
+_________________________________________
+listremoveif: check first with while (lst && !cmp(data_ref, lst->data)), then check rest with usual 
+while (lst)
+	if (kst->next && !cmp(data_ref, lst_>next->data)
+_____________________________________-
+
+ft_split - in one function, careful aboyt printing and malloc, and criteria for going forward, where teh incrementor is.
+rev wstr 
 rostring
 sortinttab
 sortlist
