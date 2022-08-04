@@ -1,3 +1,5 @@
+In general: Relax, have a plan, test bit by it, and keep a clean version for submission. Do only for 1h30, submit, do next.
+
 floodfill - use recurrence with a helper function fill:
 
 1) fill(tab, size, cur, tofill)
