@@ -1,4 +1,13 @@
 # hive-C-exam - all code for learning purposes
+Aug 5 update:
+- failed rostring and split, for small mistakes:
+- rostring: one of my loops was wrong 1
+- split: I did not test for tabs and newlines when alone.
+--> Solution: define tests, and do them at home.
+
+Next exam: September 8. maybe before.
+How to prepare: every day when 1-2h of camagru, take one exercise and do tests.
+
 
 Aug 2 update:
 - situation: failed revwstr and floodfill, when I knew of them from before. not sure how to prepare.
