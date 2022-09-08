@@ -1,4 +1,7 @@
 # hive-C-exam - all code for learning purposes
+
+Sept 8 Exam prep - priority: rostring, split, revwstr, floodfill.
+
 Aug 5 update:
 - failed rostring and split, for small mistakes:
 - rostring: one of my loops was wrong 1
