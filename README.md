@@ -1,5 +1,10 @@
 # hive-C-exam - all code for learning purposes
+'NEXT TIME:
+- write revwstr with my method
+- write split
+- write rostring
 
+___________________________________________________________________________________________________
 Sept 8 Exam prep - priority: rostring, split, revwstr, floodfill.
 
 **TO REMEMBER**
@@ -13,6 +18,7 @@ revwstr:
 
 split: 
 1) test \t and \n
+
 ___________________________________________________________________________________________________
 Aug 5 update:
 - failed rostring and split, for small mistakes:
