@@ -7,11 +7,17 @@ Floodfill:
 1) in recurrence, check if current char is different from previous (color/char c)
 2) when duplicating or printing map, use size as function variable.
 3) when duplicating, use strdup on each line.
+
+revwstr:
+1) what if only word? do I put an extra space?
+
+split: 
+1) test \t and \n
 ___________________________________________________________________________________________________
 Aug 5 update:
 - failed rostring and split, for small mistakes:
 - rostring: one of my loops was wrong 1
-- split: I did not test for tabs and newlines when alone.
+- split: I did not test for tabs (/t) and newlines(/n) when alone.
 --> Solution: define tests, and do them at home.
 
 Next exam: September 8. maybe before.
