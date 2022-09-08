@@ -2,6 +2,12 @@
 
 Sept 8 Exam prep - priority: rostring, split, revwstr, floodfill.
 
+**TO REMEMBER**
+Floodfill: 
+1) in recurrence, check if current char is different from previous (color/char c)
+2) when duplicating or printing map, use size as function variable.
+3) when duplicating, use strdup on each line.
+___________________________________________________________________________________________________
 Aug 5 update:
 - failed rostring and split, for small mistakes:
 - rostring: one of my loops was wrong 1
