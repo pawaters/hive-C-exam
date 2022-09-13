@@ -54,6 +54,8 @@ int	main(void)
 	char *phrase = "   Hello,   test\t woo!  ";
 	arr = ft_split(phrase);
     printf("%s", arr[0]);
-
+    printf("%s", arr[1]);  
+    printf("%s", arr[2]);
+    printf("%s", arr[3]); 
     return(0);
 }
